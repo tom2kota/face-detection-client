@@ -1,8 +1,10 @@
 {
   "name": "face-react-client",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.5.0",
+    "reactstrap": "^8.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
