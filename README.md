@@ -1,4 +1,4 @@
-# Face detection - Client
+# Face detection - Client for [Server](https://github.com/tom2kota/face-detection-server)
 
 [DEMO at vercel.com](https://face-detection-client.vercel.app/)
 
